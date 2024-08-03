@@ -1,0 +1,18 @@
+.nav__li {
+  display: flex;
+  align-items: center;
+  gap: 42px;
+  color: #323232;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.nav__li .activ {
+  color: #F78434;
+  font-weight: 700;
+}
+
+/*# sourceMappingURL=nav.css.map */

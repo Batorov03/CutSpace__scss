@@ -1,0 +1,40 @@
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 35px;
+  margin-bottom: 43px;
+}
+
+.images {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+
+  & h2 {
+    color: #323232;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+}
+
+.nav__li{
+  display: flex;
+  align-items: center;
+  gap: 42px;
+  color: #323232;
+
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+  .activ{
+    color:  #F78434;
+    font-weight: 700;
+  }
+}
